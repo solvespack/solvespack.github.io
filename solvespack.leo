@@ -42,7 +42,7 @@
 <t tx="yen.20161105160252.3">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2016 Fall 電腦輔助設計實習課程
+2017 Solvespack.com 機電資整合解決方案研究
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
